@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-	printf("Zero commit\n");
+	printf("First commit\n");
 }
